@@ -1,0 +1,2 @@
+
+-- No Python requirements; this project is based on SQL and Power BI.
